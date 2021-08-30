@@ -1,2 +1,2 @@
 # formrocket-onsubmit
-Handler for certain FormRocket OnSubmit routes
+Handler for certain FormRocket OnDone routes
